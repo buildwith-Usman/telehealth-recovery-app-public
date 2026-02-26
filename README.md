@@ -7,9 +7,9 @@ A production-grade **cross-platform telehealth mobile application** built with F
 ## Demo Videos
 
 <p align="center">
-  <video src="screenshots/demo_1.mp4" width="360" controls></video>
+  <video src="https://github.com/user-attachments/assets/9de4bbcd-8bfc-4c7d-bd46-3a78bd0652d6" width="360" controls></video>
   &nbsp;&nbsp;
-  <video src="screenshots/demo_2.mp4" width="360" controls></video>
+  <video src="https://github.com/user-attachments/assets/eb653aff-07fc-4e01-a58d-3f1998464865" width="360" controls></video>
 </p>
 
 ---
