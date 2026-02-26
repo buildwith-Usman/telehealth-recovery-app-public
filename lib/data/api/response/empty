@@ -1,0 +1,18 @@
+ "doctor_info": {
+                "id": 9,
+                "user_id": 12,
+                "specialization": "therapist",
+                "experience": "4",
+                "dob": "17-05-1999",
+                "degree": "Clinical Psychology",
+                "license_no": "PMDC-2009",
+                "country_id": null,
+                "gender": "female",
+                "age": 26,
+                "commision_type": "percentage",
+                "commision_value": "10",
+                "completed": 1,
+                "status": "approved",
+                "created_at": "2025-10-19T18:31:05.000000Z",
+                "updated_at": "2025-10-24T07:51:20.000000Z"
+            },

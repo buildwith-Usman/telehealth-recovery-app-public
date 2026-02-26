@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713375574238",
+    "project_id": "doctortokenapplication",
+    "storage_bucket": "doctortokenapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713375574238:android:b66eab89ad94e681443a4f",
+        "android_client_info": {
+          "package_name": "com.doctor.patient.token.doctor_patient_token_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713375574238-saquunm4qduni14goec2i4eao8oqi2u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doctor.patient.token.doctor_patient_token_mobile_app",
+            "certificate_hash": "9b0f0425c6fede57f2515f1ea7752633946a46fa"
+          }
+        },
+        {
+          "client_id": "713375574238-m2alhakotv8k9ie56jlf5b77cmqs6c53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf81cV8dcQZ3zOaDVXtKivEXB43CtMByY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713375574238-m2alhakotv8k9ie56jlf5b77cmqs6c53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,224 @@
+{
+  "app_name": "Ikram Medical Center",
+  "comm  "signu  },
+  "signupScreen": {
+    "heading": "Sign Up",
+    "subHeading": "Let's get you set up with your new account.",
+    "name": "Name",
+    "email": "Email",
+    "mobilNo": "Mobile Number",
+    "next": "Next",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+    "forgetPass": "Forgot Password?"
+  },    "heading": "Sign Up",
+    "subHeading": "Let's get you set up with your new account.",
+    "name": "Name",
+    "email": "Email",
+    "mobilNo": "Mobile Number",
+    "next": "Next",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+    "forgetPass": "Forgot Password?"
+  },"userGuide": "User Guide",
+    "selectAnOption": "Select an option"
+  },
+  "emptyData": "No data.",
+  "errorMessage": {
+    "fieldIsRequired": "This field is required"
+  },
+  "startScreen": {
+    "drName": "Dr . M . Shahid",
+    "heading": "Your Trusted Healthcare Partner",
+    "subHeading": "Book your appointment, get your token, and visit us for a personalized check-up",
+    "login": "Login",
+    "getStarted": "Get Started"
+  },
+  "onboarding": {
+    "pageOne": {
+      "title": "Your Safe Space for Mental Wellness",
+      "subtitle": "Connect with licensed therapists anytime, anywhere — securely and privately."
+    },
+    "pageTwo": {
+      "title": "Real Therapists, Real Support",
+      "subtitle": "All therapists are verified and licensed — ready to support your journey."
+    },
+    "pageThree": {
+      "title": "Tell Us a Bit About You",
+      "subtitle": "We'll match you with the right therapist based on your needs and preferences."
+    },
+    "skip": "Skip",
+    "getStarted": "Get Started"
+  },
+  "loginScreen": {
+    "heading": "Login to Your Account",
+    "subHeading": "Log in to explore about our app",
+    "email": "Email",
+    "password": "Password",
+    "enterEmail": "example@gmail.com",
+    "login": "Login",
+    "signUp": "Signup",
+    "doNotHaveAccount": "Don't have an account?",
+    "forgetPass": "Forgot Password?",
+    "continueWithGoogle": "Continue with Google",
+    "mentalHealthSpecialist": "Are you a mental health specialist?",
+    "joinUs": "Join Us"
+  },
+  "signupScreen": {
+    "heading": "Come find your love with minions of other people",
+    "subHeading": "Register or sign in and we’ll get started.",
+    "name": "Name",
+    "email": "Email",
+    "mobilNo": "Mobile Number",
+    "next": "Next",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+    "forgetPass": "Forgot Password?"
+  },
+  "forgetPassScreen": {
+    "heading": "Forget Password",
+    "subHeading": "Forgot Password k liye ap apna email address add karen or apko OTP Milyga osey Enter kar k New password Generate karen.",
+    "email": "Email",
+    "next": "Next",
+    "changePasswordHeading": "Change Password",
+    "changePasswordSubHeading": "Change Password k liye next py click karen or apko OTP Milyga osey Enter kar k New password Generate karen."
+  },
+  "otpScreen": {
+    "forgetPassword": "Forget Password",
+    "verifyPassword": "Verify Password",
+    "subHeading": "Make your account safely with PIN",
+    "doNotReceiveOtp": "Didn't receive the OTP?",
+    "resendOtp": "Resend OTP.",
+    "verificationEmail": "Verification Email",
+    "verificationEmailSubHeading": "We’ve sent a one-time password (OTP) to your email address. Please enter the OTP below to verify your email and complete the process."
+  },
+  "chosePassScreen": {
+    "heading": "Choose a Password",
+    "subHeading": "Input your password for access your account",
+    "newPassword": "New Password",
+    "submit": "Submit"
+  },
+  "congoScreen": {
+    "heading": "Congratulations!\nAccount is created",
+    "subHeading": "Your account is ready! Log in to manage your appointments.",
+    "backToLogin": "Wow! | Back to Login"
+  },
+  "patientDashboardScreen": {
+    "welcome": "Hi Welcome!",
+    "currentToken": "Current Token Number",
+    "bookAppointment": "Book Appointment",
+    "searchBy": "Search by Name, or Token Number",
+    "appointmentHistory": "Appointment History",
+    "prescription": "Prescription"
+  },
+  "bookAppointmentScreen": {
+    "bookAppointment": "Book Appointment",
+    "morning": "Morning",
+    "evening": "Evening",
+    "addInfo": "Add Patient Information",
+    "numberOfPatients": "Number of Patients",
+    "noPatient": "Select Number of Patients",
+    "patientName": "Patient Name",
+    "patientAge": "Patient Age",
+    "patientGender": "Enter Gender",
+    "next": "Next",
+    "submit": "Submit"
+  },
+  "paymentScreen": {
+    "heading": "Payment",
+    "subHeading": "Update the appointment time according to your availability",
+    "jazzCash": "JazzCash",
+    "PayPro": "PayPro",
+    "EnterJazzCashNo": "Enter your JazzCash Mobile Number",
+    "EnterPayProNo": "Enter your PayPro Number",
+    "info": "Information:",
+    "totalPayment": "Total Payment: PKR ",
+    "next": "Next",
+    "submit": "Submit"
+  },
+  "appointmentScreen": {
+    "heading": "Appointment Confirmed!",
+    "subHeading": "Congratulations! Your appointment has been successfully booked",
+    "tokenNumber": "Token Number:",
+    "noOfPatients": "Number of Patient:",
+    "patientName": "Patient Name:",
+    "dateAndTime": "Date & Time",
+    "backToDashBoard": "Back to DashBoard"
+  },
+  "settingScreen": {
+    "title": "Profile",
+    "settings": "Settings",
+    "mobNo": "Mobile No",
+    "changeEmail": "Change Email",
+    "changeMobileNo": "Change Mobile Number",
+    "changePass": "Change Password",
+    "emailAddress": "Email Address",
+    "dateOfBirth": "Date of Birth",
+    "logout": "Logout",
+    "appointmentSettings": "Appointment Setting"
+  },
+  "changeProfileScreen": {
+    "headingMobile": "Change Mobile Number",
+    "headingEmail": "Change Email Address",
+    "mobNo": "Enter Mobile Number",
+    "email": "Enter Email",
+    "submit": "Submit"
+  },
+  "receptionDashboardScreen": {
+    "welcome": "Hi Welcome! Kamran",
+    "appointment": "Appointments",
+    "dateTime": "Mar 14, 2025 - Friday\nMorning",
+    "viewAll": " View all",
+    "viewLess": " View less",
+    "searchBy": "Search by Name, or Token Number",
+    "checked": "Checked",
+    "pending": "Pending",
+    "addPatient":"Book Patient"
+  },
+  "doctorDashboardScreen": {
+    "appointment": "Appointments",
+    "newAppointment": "New Appointments",
+    "searchBy": "Search by Name, or Token Number",
+    "morning":"MORNING TIME",
+    "evening": "EVENING TIME",
+    "patientChecking":"Patient Checking | Start!"
+  },
+  "checkingProcessScreen": {
+    "checkingProcess": "Checking Process",
+    "selectSlot": "Select Slot"
+  },
+  "viewAllPatientPage": {
+    "morning": "Morning",
+    "searchBy": "Search by Name, or Token Number",
+    "newAppointment": "New Appointments",
+    "patientChecking":"Patient Checking | Start!",
+    "filters": "Filters",
+    "evening": "Evening",
+    "submit": "Submit"
+  },
+  "appointmentListScreen": {
+    "appointment":"Appointments",
+    "tokenNumber":"Token Number:",
+    "numberOfPatients":"Number of Patients",
+    "patientAge":"Patient Age",
+    "years":"Years",
+    "gender":"Gender",
+    "dateNTime":"Date & Time:",
+    "status":"Status",
+    "uploadPrescription":"Upload Prescription",
+    "gallery":"Gallery",
+    "camera":"Camera"
+  },
+  "timeUpdateBottom": {
+    "morning": "Morning",
+    "evening": "Evening",
+    "timeUpdate":  "Time Update",
+    "updateTheAppointmentTime": "Update the appointment time according to your availability",
+    "appointmentTime": "Appointment Time",
+    "selectDate": "Select Date",
+    "startEndTime": "Start Time - End Time",
+    "submit": "Submit"
+  }
+}
+
+

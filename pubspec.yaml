@@ -1,0 +1,140 @@
+name: recovery_consultation_app
+description: "Recovery Consultation App - Book appointments, therapy sessions, and order medicines"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0
+environment:
+  sdk: ^3.6.0
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+
+  # Json
+  json_annotation: ^4.9.0
+
+  encrypt: ^5.0.3
+
+  # Common
+  dio: ^5.7.0
+  retrofit: ^4.4.1
+  retrofit_generator: ^9.1.2
+  get_storage: ^2.1.1
+  build_runner: ^2.4.12
+
+  # Image/Svg
+  flutter_svg: ^2.0.17
+  font_awesome_flutter: ^10.8.0
+
+  # Utils
+  intl: ^0.20.2
+  connectivity_plus: ^6.0.5
+  email_validator: ^3.0.0
+  table_calendar: ^3.1.0
+  flutter_lints: ^4.0.0
+  fluttertoast: ^8.2.12
+  jwt_decoder: ^2.0.1   # Added for JWT token decoding
+  flutter_secure_storage: ^9.0.0
+  pin_code_fields: ^8.0.1
+  # State management
+  get: ^4.6.6
+  easy_localization: ^3.0.7+1
+  json_serializable: ^6.8.0
+  flutter_gen: ^5.10.0
+  dotted_border: ^2.1.0
+  image_picker: ^1.1.2
+  permission_handler: ^11.0.0
+  google_sign_in: ^6.2.1
+  pointycastle: any
+  vector_graphics: any
+  time_range_picker: ^2.2.0
+  stylish_bottom_bar: ^1.1.1
+  circle_nav_bar: ^2.2.0
+  
+  # Video calling
+  agora_rtc_engine: ^6.3.2
+
+  http: any
+  shared_preferences: any
+  collection: any
+  path: any
+  path_provider: ^2.1.1
+dev_dependencies:
+  flutter_gen_runner: ^5.10.0
+  flutter_test:
+    sdk: flutter
+
+flutter_gen:
+  output: lib/gen/
+  line_length: 80
+  integrations:
+    flutter_svg: true
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  # Assets & Fonts
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto-Light.ttf
+    
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+    
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Inter-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Inter-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Inter-Bold.ttf
+          weight: 700
