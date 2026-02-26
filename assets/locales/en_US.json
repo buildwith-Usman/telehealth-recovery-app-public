@@ -1,0 +1,169 @@
+{
+  "app_name": "Recovery Consultation App",
+  "common": {
+    "userGuide": "User Guide",
+    "selectAnOption": "Select an option"
+  },
+  "emptyData": "No data.",
+  "errorMessage": {
+    "fieldIsRequired": "This field is required"
+  },
+  "onboarding": {
+    "pageOne": {
+      "title": "Your Safe Space for Recovery",
+      "subtitle": "Connect with licensed recovery consultants anytime, anywhere — securely and privately."
+    },
+    "pageTwo": {
+      "title": "Professional Recovery Support",
+      "subtitle": "All consultants are verified and licensed — ready to support your recovery journey."
+    },
+    "pageThree": {
+      "title": "Tell Us a Bit About You",
+      "subtitle": "We'll match you with the right consultant based on your needs and recovery goals."
+    },
+    "skip": "Skip",
+    "getStarted": "Get Started"
+  },
+  "loginScreen": {
+    "heading": "Login To Your Account",
+    "subHeading": "Your safe place is just a login away.",
+    "email": "Email",
+    "password": "Password",
+    "enterEmail": "example@gmail.com",
+    "login": "Login",
+    "signUp": "Signup",
+    "doNotHaveAccount": "Don't have an account?",
+    "forgetPassword": "Forgot Password?",
+    "continueWithGoogle": "Continue with Google",
+    "mentalHealthSpecialist": "Mental Health Specialist",
+    "joinUs": "Join us"
+  },
+  "signupScreen": {
+    "heading": "Sign Up",
+    "subHeading": "Your space, Your pace - let’s begin.",
+    "fullName": "Full Name",
+    "email": "Email",
+    "emailHint": "example@gmail.com",
+    "phoneNumber": "Phone Number",
+    "phoneHint": "03XXXXXXXXX",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "createAccount": "Create Account",
+    "next": "Next",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Login",
+    "forgetPassword": "Forgot Password?"
+  },
+  "specialistSignupScreen": {
+    "stepIndicator": "Step {step} of {total}",
+    "basicInformation": "Basic Information",
+    "basicInformationSubtitle": "Let's start with your basic details",
+    "personalDetails": "Personal Details",
+    "personalDetailsSubtitle": "Tell us more about yourself",
+    "professionalInformation": "Professional Information",
+    "professionalInformationSubtitle": "Your professional credentials",
+    "uploadProfilePhoto": "Upload Image",
+    "photoSelected": "Photo Selected",
+    "fullName": "Full Name",
+    "fullNameHint": "Enter your full name",
+    "email": "Email",
+    "emailHint": "Enter your email",
+    "phoneNumber": "Phone Number",
+    "phoneNumberHint": "Enter your phone number",
+    "password": "Password",
+    "passwordHint": "Enter your password",
+    "confirmPassword": "Confirm Password*",
+    "confirmPasswordHint": "Confirm your password",
+    "dateOfBirth": "D.O.B",
+    "day": "Day",
+    "month": "Month", 
+    "year": "Year",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "other": "Other",
+    "languages": "Languages",
+    "profession": "Profession",
+    "selectProfession": "Select your profession",
+    "yearsOfExperience": "Years of Experience",
+    "yearsOfExperienceHint": "Enter years of experience",
+    "degree": "Degree",
+    "degreeHint": "Enter your degree",
+    "licenseNumber": "License No./PMC No.",
+    "registrationNumber": "License No./Registration No. (If Applicable)",
+    "licenseNumberHint": "Enter your license number",
+    "registrationNumberHint": "Enter your registration number (if applicable)",
+    "bio": "Bio",
+    "bioHint": "Tell us about yourself",
+    "previous": "Previous",
+    "next": "Next",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "signIn": "Sign In",
+    "or": "Or",
+    "continueWithGoogle": "Continue with Google"
+  },
+  "forgetPasswordScreen": {
+    "heading": "Forgot Password",
+    "emailLabel": "Email",
+    "emailPlaceholder": "example@gmail.com",
+    "next": "Next"
+  },
+  "otpScreen": {
+    "heading": "Enter OTP",
+    "subHeading": "We have sent the verification code to your email address",
+    "enterDigitsInstruction": "Enter the 5-digit code sent to:",
+    "didntReceiveCode": "Didn't receive code?",
+    "resendCode": "Resend Code",
+    "verify": "Verify",
+    "doNotReceiveOtp": "Didn't receive the OTP?",
+    "resendOtp": "Resend OTP.",
+    "verificationEmail": "Verification Email",
+    "verificationEmailSubHeading": "We've sent a one-time password (OTP) to your email address. Please enter the OTP below to verify your email and complete the process."
+  },
+  "createNewPasswordScreen": {
+    "heading": "Reset Password", 
+    "subHeading": "Your privacy matters - choose something safe and secure.",
+    "newPassword": "Enter New Password",
+    "confirmPassword": "Confirm Password",
+    "newPasswordPlaceholder": "At least 8 digits",
+    "confirmPasswordPlaceholder": "Re-enter your password",
+    "submit": "Reset Password"
+  },
+  "successScreen": {
+    "heading": "Success!",
+    "subHeading": "Congratulations! Your account has been created successfully",
+    "continue": "Continue"
+  },
+  "settingScreen": {
+    "title": "Profile",
+    "settings": "Settings",
+    "mobNo": "Mobile No",
+    "changeEmail": "Change Email",
+    "changeMobileNo": "Change Mobile Number",
+    "changePass": "Change Password",
+    "emailAddress": "Email Address",
+    "dateOfBirth": "Date of Birth",
+    "logout": "Logout",
+    "appointmentSettings": "Appointment Settings"
+  },
+  "changeProfileScreen": {
+    "headingEmail": "Change Email",
+    "headingMobile": "Change Mobile",
+    "email": "Enter email address",
+    "mobNo": "Enter mobile number",
+    "submit": "Submit"
+  },
+  "therapistSelectionScreen": {
+    "heading": "Are you looking for?",
+    "errorSelectType": "Please select a type of professional",
+    "errorGeneral": "Something went wrong. Please try again."
+  },
+  "fillQuestionnaireOrSkipScreen": {
+    "heading": "Would you like us to choose a therapist for you?",
+    "subtitle": "Answer a few quick questions to help us suggest the best match — or skip and choose one yourself.",
+    "fillQuestionnaire": "Fill Questionnaire",
+    "skipBrowseText": "Skip and Browse Therapists?",
+    "skip": "Skip"
+  }
+}
